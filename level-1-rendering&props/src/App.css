@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.circle {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 1rem;
+}
+
+.triangle {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  background-color: white;
+  border-bottom: 100px solid #007bff;
+  margin: 1rem;
+}
+
+.square {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 1rem;
+}
