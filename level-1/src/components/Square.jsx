@@ -1,4 +1,6 @@
 /* eslint-disable react/prop-types */
+
+
 const Square = (props) => {
   const squareColor = props.color ?? "grey";
 
