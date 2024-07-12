@@ -3,6 +3,7 @@
 Solutions for https://github.com/TamsinHuggins/react-component-game
 
 
+
 ## View level-1 solutions
 
 ```
@@ -20,3 +21,6 @@ cd level-2
 npm install
 npm run dev
 ```
+
+
+![final](https://github.com/user-attachments/assets/6069681b-3b67-49d2-8954-815cd81a3654)
